@@ -1,3 +1,8 @@
+//Q)Develop an employee payroll management system. Define abstract classes for Employee
+// and concrete subclasses for different employee types like FullTimeEmployee and ContractEmployee.
+// Implement interfaces for calculations like Payable and Taxable. Utilize collections to store employee records.
+
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
